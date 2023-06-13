@@ -16,3 +16,4 @@ class Thermostat {
   let temp = thermos.temperature; // 24.44 градусів за Цельсієм
   thermos.temperature = 26;
   temp = thermos.temperature; // 26 градусів за Цельсієм
+  console.clear();
